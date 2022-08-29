@@ -1,0 +1,27 @@
+body {
+    background: rgb(150, 119, 119);
+    }
+.main{
+    display: flex;
+    justify-content: center;
+}
+
+.x{
+    /* display: flex; */
+}
+
+.a{
+    background-color: brown;
+    width:200px; height:100px;
+    text-align: center;
+}
+.b{
+    background-color: rgb(42, 110, 165);
+    width:200px; height:100px;
+    text-align: center;
+}
+.c{
+    background-color: rgb(149, 193, 26);
+    width:200px; height:200px;
+    text-align: center;
+}
